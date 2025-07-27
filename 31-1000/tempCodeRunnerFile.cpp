@@ -1,0 +1,1 @@
+else if(a == b) cout<<2<<endl;
